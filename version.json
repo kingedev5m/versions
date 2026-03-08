@@ -1,0 +1,6 @@
+{
+  "nx_robberies": {
+    "version": "1.0.0",
+    "changelog": "Improved robbery system and fixed register bug."
+  }
+}

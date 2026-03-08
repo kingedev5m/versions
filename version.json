@@ -1,5 +1,5 @@
 {
-  "nx_robberies": {
+  "nx_robberycreator": {
     "version": "1.1.0",
     "changelog": "Improved robbery system and fixed register bug."
   }

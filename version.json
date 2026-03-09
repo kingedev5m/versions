@@ -2,5 +2,9 @@
   "nx_robberycreator": {
     "version": "1.0.0",
     "changelog": "Improved robbery system and fixed register bug."
+  },
+  "nx_safezonecreator": {
+    "version": "1.0.0",
+    "changelog": "Improved creator system and fixed register bug."
   }
 }

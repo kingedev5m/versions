@@ -1,10 +1,11 @@
 {
-  "nx_robberycreator": {
+  "kd_robberycreator": {
     "version": "1.0.0",
     "changelog": "Improved robbery system and fixed register bug."
   },
-  "nx_safezonecreator": {
+
+  "lb-radio": {
     "version": "1.0.0",
-    "changelog": "Improved creator system and fixed register bug."
-  }
+    "changelog": ""
+  },
 }
